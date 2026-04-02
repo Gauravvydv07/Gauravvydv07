@@ -14,7 +14,7 @@
 - 🎯 Goal: Build clean, responsive web projects
 - 💡 I love turning ideas into real websites
 - 🌍 Based in India 🇮🇳
-- 📫 Reach me on **[LinkedIn](www.linkedin.com/in/gaurav-yadav-73807a286)**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/gaurav-yadav-73807a286/)**
 - ⚡ Fun fact: I debug with `console.log` and I'm proud of it 😄
 
 ---
