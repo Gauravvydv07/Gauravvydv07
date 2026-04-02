@@ -46,14 +46,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gauravvydv07&theme=tokyonight&no-frame=true&row=1&column=4" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
