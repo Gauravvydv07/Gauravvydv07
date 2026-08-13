@@ -13,7 +13,7 @@
 - 🌱 Currently learning **HTML, CSS, JavaScript & React**
 - 🎯 Goal: Build clean, responsive web projects
 - 💡 I love turning ideas into real websites
-- 🌍 Based in India(Maharshtra-kolhapur)
+- 🌍 Based in India (Maharshtra-kolhapur)
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/gaurav-yadav-73807a286/)**
 - ⚡ Fun fact: I debug with `console.log` and I'm proud of it 😄
 
